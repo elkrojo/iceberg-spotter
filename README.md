@@ -1,0 +1,1 @@
+Further information and data for this project can be [found here](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge).
